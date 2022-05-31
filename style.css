@@ -128,7 +128,7 @@
 }
 
 /* Completed */
-.items_comleted .item__description {
+.items_completed .item__description {
   text-decoration: line-through;
   color: #888;
 }
