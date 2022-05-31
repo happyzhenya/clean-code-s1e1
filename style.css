@@ -17,11 +17,11 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
-.header {
-  text-align: center;
-}
+        .header {
+                text-align: center;
+        }
 
 }
 .main {
@@ -144,6 +144,6 @@
   width: 224px;
 }
 
-.item-mode .task-name {
+.item-mode .item__description {
   display: none;
 }
