@@ -143,6 +143,6 @@
   width: 224px;
 }
 
-.item-mode .item__description {
+.item_mode .item__description {
   display: none;
 }
